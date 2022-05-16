@@ -47,10 +47,10 @@ The user will be able to use the application through the website link deployed t
 
   ## Screenshots
   
-  ![virtual-library-screenshot-01]()
+  ![virtual-library-screenshot-01](https://raw.githubusercontent.com/LinnetteCapul/virtual-library-browser/main/client/public/virtual-library-screenshot01.JPG)
     Demonstration of book search in application link. 
   
   <br>
   
-  ![virtual-library-screenshot02]()
-    User logged in with a saved book to demonstrate application usage
+  ![virtual-library-screenshot02](https://raw.githubusercontent.com/LinnetteCapul/virtual-library-browser/main/client/public/virtual-library-screenshot02.JPG)
+    User logged in with a saved book to demonstrate application usage.
